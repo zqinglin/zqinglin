@@ -1,4 +1,4 @@
-# Hi there, I'm Qinglin Zeng! 👋
+# Hi, I'm Qinglin Zeng! 👋
 
 I am currently a sophomore undergraduate researcher at **Sun Yat-sen University**, advised by Prof. Keze Wang. My research aims to build intelligent, interactive, and reasoning AI systems, with a strong focus on the foundations of **Large Language Models (LLMs)**, **Vision Language Models (VLMs)**, and **Representation Learning**.
 
@@ -8,7 +8,8 @@ I am currently a sophomore undergraduate researcher at **Sun Yat-sen University*
 My current research trajectory spans across:
 *   **LLMs & Reasoning:** Enhancing reasoning capabilities, model efficiency, and real-time hallucination correction.
 *   **Multimodal & Vision Language Models:** Coherent video generation, collaborative planning, and bridging continuous signals.
-*   **Reinforcement Learning & Embodied AI:** Applying RL, Imitation Learning, and Diffusion Policy to solve complex Robot Manipulation tasks.
+*   **Agentic Systems:** Building collaborative, planning-capable agents for complex tasks.
+*   **On-Policy Distillation (OPD):** Exploring efficient distillation strategies for model alignment and optimization.
 
 ### 📝 Selected Publications
 *   **[ICASSP 2026 Oral]** **Reflective Confidence: Correcting Reasoning Flaws via Online Self-Correction**  
