@@ -30,3 +30,10 @@ My current research trajectory spans across:
 *   **Google Scholar:** [Qinglin Zeng](https://scholar.google.com/citations?hl=en&user=GcRgJMMAAAAJ)
 *   **Email:** [zengqlin3@mail2.sysu.edu.cn]
 *   **Location:** Guangzhou, China
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zqinglin/zqinglin/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zqinglin/zqinglin/output/github-contribution-grid-snake.svg" />
+</picture>
