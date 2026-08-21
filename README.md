@@ -1,6 +1,6 @@
 # Hi, I'm Qinglin Zeng! 👋
 
-I am currently a sophomore undergraduate researcher at **Sun Yat-sen University**, advised by Prof. Keze Wang. My research aims to build intelligent, interactive, and reasoning AI systems, with a strong focus on the foundations of **Large Language Models (LLMs)**, **Vision Language Models (VLMs)**, and **Representation Learning**.
+I am currently a third-year undergraduate researcher at **Sun Yat-sen University**, advised by Prof. Keze Wang. My research aims to build intelligent, interactive, and reasoning AI systems, with a strong focus on the foundations of **Large Language Models (LLMs)**, **Vision Language Models (VLMs)**, and **Representation Learning**.
 
 🔥 **I am actively seeking Research Internship opportunities! Please feel free to reach out if our interests align.**
 
