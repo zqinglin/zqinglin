@@ -12,6 +12,8 @@ My current research trajectory spans across:
 *   **On-Policy Distillation (OPD):** Exploring efficient distillation strategies for model alignment and optimization.
 
 ### 📝 Selected Publications
+*   **[EMNLP 2026]** **The Illusion of Expertise: Narrow Finetuning Induces Persistent Domain Priors in Vision-Language Models**  
+    **Qinglin Zeng**, J Zhang, J Huang, N Liu, L Xu, W Wang, K Wang.
 *   **[ICASSP 2026 Oral]** **Reflective Confidence: Correcting Reasoning Flaws via Online Self-Correction**  
     **Qinglin Zeng**, J Yang, K Wang.
 *   **[ACL 2026 Findings]** **RACC: Regret-Aware Confidence Calibration for Consistent Masked Discrete Diffusion Decoding**  
